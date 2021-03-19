@@ -39,3 +39,4 @@ p42=zeros(1,cc);
 for i=1:cc
    p42(i)=sum(pp4(:,i));
 end
+end
